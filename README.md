@@ -1,2 +1,2 @@
-# OS-LAB
-# CPU Scheduling Programs
+# Operating System LAB
+## CPU Scheduling Programs
