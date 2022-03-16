@@ -1,3 +1,5 @@
+//its just a bascic code u have to modify
+
 #include<stdio.h>
 int main()
 {
